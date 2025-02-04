@@ -1,1 +1,1 @@
-# sql-claims-analysis-project
+# I hava analyzed claims using MySql.
